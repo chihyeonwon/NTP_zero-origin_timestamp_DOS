@@ -1,4 +1,9 @@
 # NTP_zero-origin_timestamp_DOS
+CVE-2018-7185, CVE-2018-7184에 등재된 NTP zero-origin timestamp denial of service 공격에 대한 분석 보고서 입니다.
+```
+작성자 : IGLOO Corp, Won Chi Hyun
+작성일 : 2025.03.16 
+```  
 NTP zero-origin timestamp Denial-of-Service NTP 제로 타임스탬프 서비스 거부
 
 ntpd는 인터넷 표준시간 서버 또는 로컬 기준 시간을 통해 시스템의 시간 정보를 동기화하는 운영시스템 데몬이다.
